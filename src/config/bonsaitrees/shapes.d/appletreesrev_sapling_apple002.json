@@ -1,0 +1,65 @@
+{
+  "type": "appletreesrev:sapling_apple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "appletreesrev:apple_leaves",
+      "meta": 8
+    },
+    "b": {
+      "name": "appletreesrev:apple_log",
+      "meta": 4
+    },
+    "c": {
+      "name": "appletreesrev:apple_plant",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "c    ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      " cb  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaaa",
+      "aaaa ",
+      "   c ",
+      "     ",
+      "     "
+    ]
+  ]
+}

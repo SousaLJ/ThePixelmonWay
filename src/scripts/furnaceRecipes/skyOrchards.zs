@@ -1,0 +1,43 @@
+furnace.addRecipe(<minecraft:diamond>*2, <sky_orchards:amber_diamond>);
+furnace.addRecipe(<minecraft:emerald>*2, <sky_orchards:amber_emerald>);
+furnace.addRecipe(<minecraft:iron_ingot>*2, <sky_orchards:amber_iron>);
+furnace.addRecipe(<minecraft:gold_ingot>*2, <sky_orchards:amber_gold>);
+furnace.addRecipe(<pixelmon:aluminium_ingot>*2, <sky_orchards:amber_aluminium>);
+furnace.addRecipe(<minecraft:glowstone>*2, <sky_orchards:amber_glowstone>);
+furnace.addRecipe(<tconstruct:ingots:0>*2, <sky_orchards:amber_cobalt>);
+furnace.addRecipe(<tconstruct:ingots:1>*2, <sky_orchards:amber_ardite>);
+furnace.addRecipe(<minecraft:redstone>*4, <sky_orchards:amber_redstone>);
+furnace.addRecipe(<minecraft:dye:4>*4, <sky_orchards:amber_lapis>);
+furnace.addRecipe(<minecraft:string>*4, <sky_orchards:amber_cottonwood>);
+furnace.addRecipe(<minecraft:quartz>*4, <sky_orchards:amber_quartz>);
+furnace.addRecipe(<minecraft:coal>*4, <sky_orchards:amber_coal>);
+
+//Roasted acorns
+furnace.addRecipe(<sky_orchards:acorn_iron:1>, <sky_orchards:acorn_iron>);
+furnace.addRecipe(<sky_orchards:acorn_gold:1>, <sky_orchards:acorn_gold>);
+furnace.addRecipe(<sky_orchards:acorn_lapis:1>, <sky_orchards:acorn_lapis>);
+furnace.addRecipe(<sky_orchards:acorn_redstone:1>, <sky_orchards:acorn_redstone>);
+furnace.addRecipe(<sky_orchards:acorn_diamond:1>, <sky_orchards:acorn_diamond>);
+furnace.addRecipe(<sky_orchards:acorn_coal:1>, <sky_orchards:acorn_coal>);
+furnace.addRecipe(<sky_orchards:acorn_cobalt:1>, <sky_orchards:acorn_cobalt>);
+furnace.addRecipe(<sky_orchards:acorn_ardite:1>, <sky_orchards:acorn_ardite>);
+furnace.addRecipe(<sky_orchards:acorn_emerald:1>, <sky_orchards:acorn_emerald>);
+furnace.addRecipe(<sky_orchards:acorn_quartz:1>, <sky_orchards:acorn_quartz>);
+furnace.addRecipe(<sky_orchards:acorn_glowstone:1>, <sky_orchards:acorn_glowstone>);
+furnace.addRecipe(<sky_orchards:acorn_aluminium:1>, <sky_orchards:acorn_aluminium>);
+furnace.addRecipe(<sky_orchards:acorn_cottonwood:1>, <sky_orchards:acorn_cottonwood>);
+
+//leaves
+furnace.addRecipe(<sky_orchards:resin_iron>, <sky_orchards:leaves_iron>);
+furnace.addRecipe(<sky_orchards:resin_gold>, <sky_orchards:leaves_gold>);
+furnace.addRecipe(<sky_orchards:resin_lapis>, <sky_orchards:leaves_lapis>);
+furnace.addRecipe(<sky_orchards:resin_redstone>, <sky_orchards:leaves_redstone>);
+furnace.addRecipe(<sky_orchards:resin_diamond>, <sky_orchards:leaves_diamond>);
+furnace.addRecipe(<sky_orchards:resin_coal>, <sky_orchards:leaves_coal>);
+furnace.addRecipe(<sky_orchards:resin_cobalt>, <sky_orchards:leaves_cobalt>);
+furnace.addRecipe(<sky_orchards:resin_ardite>, <sky_orchards:leaves_ardite>);
+furnace.addRecipe(<sky_orchards:resin_emerald>, <sky_orchards:leaves_emerald>);
+furnace.addRecipe(<sky_orchards:resin_quartz>, <sky_orchards:leaves_quartz>);
+furnace.addRecipe(<sky_orchards:resin_glowstone>, <sky_orchards:leaves_glowstone>);
+furnace.addRecipe(<sky_orchards:resin_aluminium>, <sky_orchards:leaves_aluminium>);
+furnace.addRecipe(<sky_orchards:resin_cottonwood>, <sky_orchards:leaves_cottonwood>);

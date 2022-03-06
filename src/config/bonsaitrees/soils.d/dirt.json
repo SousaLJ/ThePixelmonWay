@@ -1,0 +1,17 @@
+{
+    "name": "minecraft:dirt",
+    "mod": "minecraft",
+    "soil": {
+        "name": "minecraft:dirt",
+        "data": 0,
+        "ignoreMeta": false
+    },
+    "modifiers": {
+        "growTime": 0.7,
+        "dropChance": 2.0
+    },
+    "providedTags": [
+        "dirt",
+        "grass"
+    ]
+}

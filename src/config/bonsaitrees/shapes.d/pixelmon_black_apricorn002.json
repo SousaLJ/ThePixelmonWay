@@ -1,0 +1,54 @@
+{
+  "type": "pixelmon:black_apricorn_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log2",
+      "meta": 1
+    },
+    "b": {
+      "name": "minecraft:leaves2",
+      "meta": 13
+    },
+    "c": {
+      "name": "minecraft:leaves2",
+      "meta": 5
+    },
+    "d": {
+      "name": "minecraft:coal_block",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "ccc",
+      "ccc",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   "
+    ],
+    [
+      " d ",
+      "cdc",
+      "cac",
+      "bab",
+      "bab",
+      " a ",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      "ccc",
+      "ccc",
+      "bbb",
+      " b ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  ]
+}

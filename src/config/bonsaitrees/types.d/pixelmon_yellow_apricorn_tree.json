@@ -1,0 +1,25 @@
+{
+    "name": "pixelmon:yellow_apricorn_tree",
+    "mod": "pixelmon",
+    "sapling": {
+        "name": "pixelmon:yellow_apricorn",
+        "data": 0
+    },
+    "growTimeMultiplier": 0.7,
+    "drops": [
+        {
+            "name": "minecraft:log",
+            "data": 0,
+            "type": "WOOD",
+            "count": 1,
+            "chance": 0.1
+        },
+        {
+            "name": "pixelmon:yellow_apricorn",
+            "data": 0,
+            "type": "CUSTOM",
+            "count": 2,
+            "chance": 1.0
+        }
+    ]
+}

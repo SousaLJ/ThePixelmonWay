@@ -1,0 +1,54 @@
+{
+  "type": "pixelmon:green_apricorn_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:log2",
+      "meta": 1
+    },
+    "b": {
+      "name": "minecraft:leaves2",
+      "meta": 13
+    },
+    "c": {
+      "name": "minecraft:leaves2",
+      "meta": 5
+    },
+    "d": {
+      "name": "elevatorid:elevator_green",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "   ",
+      "ccc",
+      "ccc",
+      "bbb",
+      "bbb",
+      " c ",
+      "   ",
+      "   "
+    ],
+    [
+      " d ",
+      "cdc",
+      "cac",
+      "bab",
+      "bab",
+      "cac",
+      " a ",
+      " a "
+    ],
+    [
+      "   ",
+      "ccc",
+      "ccc",
+      "bbb",
+      "bbb",
+      " c ",
+      "   ",
+      "   "
+    ]
+  ]
+}
